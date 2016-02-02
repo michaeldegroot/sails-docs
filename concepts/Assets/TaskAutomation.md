@@ -86,7 +86,7 @@ var jsFilesToInject = [
 ];
 
 // We change this glob pattern to include all files in
-// the templates/ direcotry that end in the extension .hbs
+// the templates/ directory that end in the extension .hbs
 var templateFilesToInject = [
   'templates/**/*.hbs'
 ];
